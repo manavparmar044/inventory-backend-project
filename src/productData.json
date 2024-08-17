@@ -1,0 +1,352 @@
+[
+    {
+        "_id": "6750ba7b8aca58d7ed510fa6",
+        "name": "Traditional Kurta",
+        "description": "Elegant traditional kurta with intricate embroidery, perfect for festive occasions.",
+        "price": 49.99,
+        "category": "Men's Clothing",
+        "tags": [
+            "kurta",
+            "traditional",
+            "ethnic",
+            "men"
+        ],
+        "variants": [
+            {
+                "type": "color",
+                "value": "White"
+            },
+            {
+                "type": "size",
+                "value": "M"
+            },
+            {
+                "type": "size",
+                "value": "L"
+            },
+            {
+                "type": "size",
+                "value": "XL"
+            }
+        ],
+        "inventory": {
+            "quantity": 100,
+            "inStock": true
+        }
+    },
+    {
+        "_id": "6750ba7b8aca58d7ed510fa7",
+        "name": "Short Kurta",
+        "description": "Casual short kurta with a comfortable fit, ideal for daily wear.",
+        "price": 29.99,
+        "category": "Men's Clothing",
+        "tags": [
+            "kurta",
+            "short kurta",
+            "casual",
+            "men"
+        ],
+        "variants": [
+            {
+                "type": "color",
+                "value": "Blue"
+            },
+            {
+                "type": "size",
+                "value": "S"
+            },
+            {
+                "type": "size",
+                "value": "M"
+            },
+            {
+                "type": "size",
+                "value": "L"
+            }
+        ],
+        "inventory": {
+            "quantity": 150,
+            "inStock": true
+        }
+    },
+    {
+        "_id": "6750ba7b8aca58d7ed510fa8",
+        "name": "Silk Kurta",
+        "description": "Luxurious silk kurta for men, featuring a rich texture and classic design.",
+        "price": 89.99,
+        "category": "Men's Clothing",
+        "tags": [
+            "kurta",
+            "silk",
+            "traditional",
+            "men"
+        ],
+        "variants": [
+            {
+                "type": "color",
+                "value": "Maroon"
+            },
+            {
+                "type": "size",
+                "value": "M"
+            },
+            {
+                "type": "size",
+                "value": "L"
+            },
+            {
+                "type": "size",
+                "value": "XL"
+            }
+        ],
+        "inventory": {
+            "quantity": 80,
+            "inStock": true
+        }
+    },
+    {
+        "_id": "6750ba7b8aca58d7ed510fa9",
+        "name": "Printed Kurta",
+        "description": "Stylish printed kurta with a modern design, perfect for casual and semi-formal events.",
+        "price": 39.99,
+        "category": "Men's Clothing",
+        "tags": [
+            "kurta",
+            "printed",
+            "modern",
+            "men"
+        ],
+        "variants": [
+            {
+                "type": "color",
+                "value": "Green"
+            },
+            {
+                "type": "size",
+                "value": "S"
+            },
+            {
+                "type": "size",
+                "value": "M"
+            },
+            {
+                "type": "size",
+                "value": "L"
+            }
+        ],
+        "inventory": {
+            "quantity": 130,
+            "inStock": true
+        }
+    },
+    {
+        "_id": "6750ba7b8aca58d7ed510faa",
+        "name": "Cotton Kurta",
+        "description": "Lightweight cotton kurta with a breathable fabric, suitable for summer wear.",
+        "price": 34.99,
+        "category": "Men's Clothing",
+        "tags": [
+            "kurta",
+            "cotton",
+            "summer",
+            "men"
+        ],
+        "variants": [
+            {
+                "type": "color",
+                "value": "Beige"
+            },
+            {
+                "type": "size",
+                "value": "M"
+            },
+            {
+                "type": "size",
+                "value": "L"
+            },
+            {
+                "type": "size",
+                "value": "XL"
+            }
+        ],
+        "inventory": {
+            "quantity": 140,
+            "inStock": true
+        }
+    },
+    {
+        "_id": "6750ba7b8aca58d7ed510fab",
+        "name": "Embroidered Kurta",
+        "description": "Handcrafted embroidered kurta with intricate patterns, perfect for weddings and festivals.",
+        "price": 74.99,
+        "category": "Men's Clothing",
+        "tags": [
+            "kurta",
+            "embroidered",
+            "wedding",
+            "men"
+        ],
+        "variants": [
+            {
+                "type": "color",
+                "value": "Gold"
+            },
+            {
+                "type": "size",
+                "value": "M"
+            },
+            {
+                "type": "size",
+                "value": "L"
+            },
+            {
+                "type": "size",
+                "value": "XL"
+            }
+        ],
+        "inventory": {
+            "quantity": 60,
+            "inStock": true
+        }
+    },
+    {
+        "_id": "6750ba7b8aca58d7ed510fac",
+        "name": "Linen Short Kurta",
+        "description": "Breathable linen short kurta, ideal for casual outings and relaxed occasions.",
+        "price": 44.99,
+        "category": "Men's Clothing",
+        "tags": [
+            "kurta",
+            "linen",
+            "short kurta",
+            "men"
+        ],
+        "variants": [
+            {
+                "type": "color",
+                "value": "Olive"
+            },
+            {
+                "type": "size",
+                "value": "S"
+            },
+            {
+                "type": "size",
+                "value": "M"
+            },
+            {
+                "type": "size",
+                "value": "L"
+            }
+        ],
+        "inventory": {
+            "quantity": 110,
+            "inStock": true
+        }
+    },
+    {
+        "_id": "6750ba7b8aca58d7ed510fad",
+        "name": "Party Wear Kurta",
+        "description": "Glamorous kurta for men, designed with sparkling embellishments for special occasions.",
+        "price": 99.99,
+        "category": "Men's Clothing",
+        "tags": [
+            "kurta",
+            "party wear",
+            "festive",
+            "men"
+        ],
+        "variants": [
+            {
+                "type": "color",
+                "value": "Black"
+            },
+            {
+                "type": "size",
+                "value": "M"
+            },
+            {
+                "type": "size",
+                "value": "L"
+            },
+            {
+                "type": "size",
+                "value": "XL"
+            }
+        ],
+        "inventory": {
+            "quantity": 50,
+            "inStock": true
+        }
+    },
+    {
+        "_id": "6750ba7b8aca58d7ed510fae",
+        "name": "Casual Kurta",
+        "description": "Comfortable casual kurta with a relaxed fit, great for everyday wear.",
+        "price": 32.99,
+        "category": "Men's Clothing",
+        "tags": [
+            "kurta",
+            "casual",
+            "everyday",
+            "men"
+        ],
+        "variants": [
+            {
+                "type": "color",
+                "value": "Grey"
+            },
+            {
+                "type": "size",
+                "value": "S"
+            },
+            {
+                "type": "size",
+                "value": "M"
+            },
+            {
+                "type": "size",
+                "value": "L"
+            }
+        ],
+        "inventory": {
+            "quantity": 120,
+            "inStock": true
+        }
+    },
+    {
+        "_id": "6750ba7b8aca58d7ed510faf",
+        "name": "Festive Kurta",
+        "description": "Brightly colored festive kurta with detailed designs, ideal for traditional celebrations.",
+        "price": 54.99,
+        "category": "Men's Clothing",
+        "tags": [
+            "kurta",
+            "festive",
+            "traditional",
+            "men"
+        ],
+        "variants": [
+            {
+                "type": "color",
+                "value": "Red"
+            },
+            {
+                "type": "size",
+                "value": "M"
+            },
+            {
+                "type": "size",
+                "value": "L"
+            },
+            {
+                "type": "size",
+                "value": "XL"
+            }
+        ],
+        "inventory": {
+            "quantity": 70,
+            "inStock": true
+        }
+    }
+]
