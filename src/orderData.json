@@ -1,0 +1,42 @@
+[
+    {
+      "_id": "7752f1651978d1d9ab32719a",
+      "email": "john.doe@example.com",
+      "productId": "7751ab8c9bde12f8cd123456",
+      "quantity": 2,
+      "price": 799,
+      "__v": 0
+    },
+    {
+      "_id": "7752f2783d8a6bd984d97123",
+      "email": "jane.smith@example.com",
+      "productId": "7752f1124a9e8db9ed510abc",
+      "quantity": 3,
+      "price": 349,
+      "__v": 0
+    },
+    {
+      "_id": "7752f3e59d1b0cbe19402387",
+      "email": "user123@domain.com",
+      "productId": "7752f3b19d1b0cbe19402345",
+      "quantity": 1,
+      "price": 1299,
+      "__v": 0
+    },
+    {
+      "_id": "7752f4f25c8d0dbc89302690",
+      "email": "example@domain.com",
+      "productId": "7752f4c05c8d0dbc89302667",
+      "quantity": 4,
+      "price": 599,
+      "__v": 0
+    },
+    {
+      "_id": "7752f6a73e9d9dbab9270a14",
+      "email": "alice.wonderland@example.com",
+      "productId": "7752f67d3e9d9dbab9270890",
+      "quantity": 6,
+      "price": 450,
+      "__v": 0
+    }
+]
